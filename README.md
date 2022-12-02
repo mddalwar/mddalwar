@@ -5,13 +5,13 @@
 
 <h2 align="left">My Skills:</h2>
 <p align="left">
-  ####💪HTML
-  ####💪CSS
-  ####💪Javascript
-  ####💪jQuery
-  ####💪PHP
-  ####💪WordPress
-  ####💪Laravel
+  #### 💪HTML
+  #### 💪CSS
+  #### 💪Javascript
+  #### 💪jQuery
+  #### 💪PHP
+  #### 💪WordPress
+  #### 💪Laravel
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
