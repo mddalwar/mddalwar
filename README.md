@@ -4,13 +4,13 @@
 #### I am a Web Developer with 5+ years experienced.
 
 <h2 align="left">My Skills:</h2>
-<h4> 💪HTML </h4>
-<h3> 💪CSS </h3>
-<h3> 💪Javascript </h3>
-<h3> 💪jQuery </h3>
-<h3> 💪PHP </h3>
-<h3> 💪WordPress </h3>
-<h3> 💪Laravel </h3>
+<h4> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="dalwar9195" height="30" width="40" /> HTML </h4>
+<h4> 💪CSS </h3>
+<h4> 💪Javascript </h4>
+<h4> 💪jQuery </h4>
+<h4> 💪PHP </h4>
+<h4> 💪WordPress </h4>
+<h4> 💪Laravel </h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
