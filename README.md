@@ -4,13 +4,14 @@
 #### I am a Web Developer with 5+ years experienced.
 
 <h3 align="left">My Skills:</h3>
-<h4> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="dalwar9195" width="40" /> HTML </h4>
-<h4> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="dalwar9195" width="40" /> CSS </h3>
-<h4> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="dalwar9195" width="40" /> Javascript </h4>
-<h4> <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/2560px-JQuery_logo.svg.png" alt="dalwar9195" width="40" /> jQuery </h4>
-<h4> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="dalwar9195" width="40" /> PHP </h4>
-<h4> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="dalwar9195" width="40" /> WordPress </h4>
-<h4> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="dalwar9195" width="40" /> Laravel </h4>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="dalwar9195" width="40" /> HTML
+
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="dalwar9195" width="40" /> CSS
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="dalwar9195" width="40" /> Javascript
+<img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/2560px-JQuery_logo.svg.png" alt="dalwar9195" width="40" /> jQuery 
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="dalwar9195" width="40" /> PHP
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="dalwar9195" width="40" /> WordPress
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="dalwar9195" width="40" /> Laravel 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
