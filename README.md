@@ -4,7 +4,7 @@
 #### I am a Web Developer with 5+ years experienced.
 
 <h2 align="left">My Skills:</h2>
-<h3> 💪HTML </h3>
+<h4> 💪HTML </h4>
 <h3> 💪CSS </h3>
 <h3> 💪Javascript </h3>
 <h3> 💪jQuery </h3>
