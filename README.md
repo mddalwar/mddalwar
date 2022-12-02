@@ -3,13 +3,16 @@
 # Md Dalwar Hossain
 #### I am a Web Developer with 5+ years experienced.
 
-
-Skills: HTML / CSS/ Javascript / jQuery / PHP / WordPress / Laravel
-
-- 🔭 I’m currently working on Template Monster as a Vendor. 
-- 💬 Ask me about any type of question about web development. 
-
-
+<h2 align="left">My Skills:</h2>
+<p align="left">
+  ####💪HTML
+  ####💪CSS
+  ####💪Javascript
+  ####💪jQuery
+  ####💪PHP
+  ####💪WordPress
+  ####💪Laravel
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dalwar9195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dalwar9195" height="30" width="40" /></a>
