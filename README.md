@@ -16,11 +16,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dalwar9195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dalwar9195" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-dalwar-hossain-38169a141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-dalwar-hossain-38169a141" height="30" width="40" /></a>
 <a href="https://fb.com/dalwar9195" target="blank"><img src="https://camo.githubusercontent.com/7a20e6344e999300af0fcf52137a2b82a4158481ad5771ce743e20d0c0a84c4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" /></a>
+<a href="https://twitter.com/dalwar9195" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://camo.githubusercontent.com/0ac419eb4df53beeb48c20e036e8d66b075b28a56450d37427ee975d5e73ab75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465)" alt="dalwar9195" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-dalwar-hossain-38169a141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-dalwar-hossain-38169a141" height="30" width="40" /></a>
+
 <a href="https://instagram.com/dalwar9195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dalwar9195" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@codeblowing" target="blank"><img align="center" src="https://www.pngitem.com/pimgs/m/43-434589_youtube-subscribe-button-hd-png-download.png" alt="@codeblowing" height="80" /></a>
+
 </p>
 
 <h3 align="left">All Badges:</h3>
